@@ -10,6 +10,9 @@ docker run -d -p 8080:443 frostwo1f/kiwi-cloud-weekend-repo
 and then put this url to your browser:
 https://127.0.0.1:8080/
 
+for dev purposes:
+chrome://flags/#allow-insecure-localhost
+
 ####
 ####
 
